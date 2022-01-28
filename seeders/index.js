@@ -1,6 +1,6 @@
 const { User, Post, Note } = require('../models')
 
-async function seeder() {
+async function seeder () {
   console.log('Seeding Data')
 
   await User.bulkCreate(require('./userSeed.js'))

@@ -9,11 +9,11 @@ const seed = [
   },
   {
     body: 'lol its ez gg',
-    pid:2
+    pid: 2
   },
   {
     body: 'basic af',
-    pid:3
+    pid: 3
   }
 ]
 
